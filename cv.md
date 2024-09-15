@@ -30,7 +30,7 @@ Warsaw, Poland
 
 ---
 
-### Other Relevant Professional Experience:
+### Other Relevant Professional Experience
 **Self Employed** – *Mathematics and Computer Science Tutor*  
 <small>July 2014 – June 2024</small>  
 – Advanced mathematics and computer science, focusing on algorithms, data structures, and graphics.
