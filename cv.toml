@@ -1,61 +1,110 @@
 [personal]
 name = "Bartosz Słapa"
-location = "Warsaw, Mazowieckie, Poland"
+location = "Warsaw, Poland"
 github = "https://github.com/suap-dev"
 linkedin = "https://www.linkedin.com/in/bartosz-slapa"
 email = "bartosz.p.slapa@gmail.com"
-phone = "+48505707827"
+phone = "+48 505-707-827"
 
 [experience]
 [[experience.job]]
 company = "VARSAV Game Studios S.A."
 position = "Unreal Engine / Game Programmer"
-location = "Warsaw, Poland"
 start_date = "February 2024"
 end_date = "Present"
 responsibilities = [
-    "Developed gameplay mechanics for 'Barkour,' a game featuring a four-legged protagonist",
-    "Collaborated with artists, designers, and other programmers to ensure smooth integration of assets and features",
-    "Optimized performance, profiled the game, and identified areas for improvement in speed and stability",
+    "Developed gameplay mechanics for 'Barkour,' a game featuring a four-legged protagonist.",
+    "Collaborated with artists, designers, and other programmers to integrate assets and features.",
+    "Profiled the project to identify and implement improvements in speed and stability.",
 ]
 
 [[experience.job]]
 company = "Grip Digital"
 position = "Game Developer (C++/Unreal Engine)"
-location = "Prague, Czechia"
 start_date = "July 2022"
 end_date = "October 2022"
 responsibilities = [
-    "Created mini-games using Unreal Engine 4 and UE_Blueprint",
-    "Collaborated with cross-functional teams to develop captivating gameplay experiences",
+    "Created mini-games using Unreal Engine 4 and UE_Blueprint.",
 ]
 
 [[experience.job]]
 company = "Gamefam"
 position = "Game Developer (Roblox/Luau)"
-location = "Los Angeles, CA"
 start_date = "December 2021"
 end_date = "June 2022"
 responsibilities = [
-    "Programmed new systems, interfaces, and game mechanics in Roblox Studio using Luau",
-    "Developed scripted events and improved gameplay based on design specifications",
+    "Programmed new systems, interfaces, and game mechanics in Roblox Studio using Luau.",
+    "Developed scripted events and improved gameplay based on design specifications.",
+]
+
+[[experience.job]]
+company = "Future Mind"
+position = "Mobile Application Developer (Android/Java)"
+start_date = "July 2014"
+end_date = "July 2015"
+responsibilities = [
+    "Created (from mockup to release) an Android dictionary app, Synonimy.pl.",
+    "Supported the development team of the Envelo project for Polish Post by testing and managing bugs.",
+]
+
+[[experience.job]]
+company = "Self Employed"
+position = "Mathematics and Computer Science Tutor"
+start_date = "July 2014"
+end_date = "June 2024"
+responsibilities = [
+    "Advanced mathematics and computer science, focusing on algorithms, data structures, and graphics.",
+]
+
+[[experience.job]]
+company = "Sofrecom"
+position = "Business Consultant"
+start_date = "February 2011"
+end_date = "May 2012"
+responsibilities = [
+    "Led a project to implement customer satisfaction standards in public administration offices in Poland.",
+    "Responsible for humanizing and simplifying administrative language to improve client communication.",
+]
+
+[[experience.job]]
+company = "Kreatywny Cukier (Getin Holding S.A. group)"
+position = "Artistic Cake Workshop Manager"
+start_date = "January 2010"
+end_date = "January 2011"
+responsibilities = [
+    "Managed projects and team, ensuring timely delivery of artistic products under tight deadlines.",
 ]
 
 [skills]
 languages = ["Rust", "C++", "Lua", "Java", "Python"]
-technologies = ["Unreal Engine", "Iced GUI", "Roblox Studio", "Android/Java"]
-development = ["Multithreading", "Game Development", "Performance Optimization"]
+technologies = [
+    "Unreal Engine",
+    "Iced GUI",
+    "OpenGL/Glium",
+    "Nalgebra",
+    "Roblox Studio",
+    "Android/Java",
+]
+soft_skills = [
+    "Team leadership",
+    "Client communication",
+    "Problem-solving",
+    "Adaptability",
+]
+human_languages = [
+    "Polish (native)",
+    "English (fluent)",
+    "French (basic)",
+    "Hindi (very basic)",
+]
 
 [education]
 [[education.institution]]
-name = "Adam Mickiewicz University in Poznań"
-course = "Bachelor's Course, Mathematics"
-years_attended = "2019 - 2021"
+name = "Warsaw University of Technology"
+course = "Computer Science"
+years_attended = "2008 – 2011"
 
 [[education.institution]]
-name = "Warsaw University of Technology"
-course = "Bachelor's Course, Applied Computer Science"
-years_attended = "2008 - 2011"
-
-[certifications]
-certs = ["Arc Certified Remote Developer", "Artificial Intelligence (EPICODE)"]
+name = "Adam Mickiewicz University in Poznań"
+course = "Mathematics"
+years_attended = "2019 – 2021"
