@@ -9,41 +9,43 @@ phone = "+48 505-707-827"
 [experience]
 [[experience.job]]
 company = "VARSAV Game Studios S.A."
-position = "Unreal Engine / Game Programmer"
+position = "Gameplay Programmer"
+tech_stack = "Unreal Engine 5, C++, Blueprint, Perforce Helix, Redmine"
 start_date = "February 2024"
 end_date = "Present"
 responsibilities = [
-    "Developed gameplay mechanics for 'Barkour,' a game featuring a four-legged protagonist.",
+    "Developed gameplay mechanics for 'Barkour', a game featuring a four-legged protagonist.",
     "Collaborated with artists, designers, and other programmers to integrate assets and features.",
     "Profiled the project to identify and implement improvements in speed and stability.",
 ]
 
 [[experience.job]]
 company = "Grip Digital"
-position = "Game Developer (C++/Unreal Engine)"
+position = "Gameplay Programmer"
+tech_stack = "Unreal Engine 4, C++, Blueprint, Perforce Helix"
 start_date = "July 2022"
 end_date = "October 2022"
-responsibilities = [
-    "Created mini-games using Unreal Engine 4 and UE_Blueprint.",
-]
+responsibilities = ["Created mini-games for an unannounced project."]
 
 [[experience.job]]
 company = "Gamefam"
-position = "Game Developer (Roblox/Luau)"
+position = "Gameplay Programmer"
+tech_stack = "Roblox Studio, Lua, Git"
 start_date = "December 2021"
 end_date = "June 2022"
 responsibilities = [
-    "Programmed new systems, interfaces, and game mechanics in Roblox Studio using Luau.",
-    "Developed scripted events and improved gameplay based on design specifications.",
+    "Programmed new systems, interfaces, and game mechanics.",
+    "Analyzed and iterated on gameplay balance.",
 ]
 
 [[experience.job]]
 company = "Future Mind"
-position = "Mobile Application Developer (Android/Java)"
+position = "Mobile Application Programmer"
+tech_stack = "Android Studio, Java, SQLite, Jira"
 start_date = "July 2014"
 end_date = "July 2015"
 responsibilities = [
-    "Created (from mockup to release) an Android dictionary app, Synonimy.pl.",
+    "Created (from mockup to release) a dictionary app, Synonimy.pl.",
     "Supported the development team of the Envelo project for Polish Post by testing and managing bugs.",
 ]
 
@@ -67,35 +69,36 @@ responsibilities = [
 ]
 
 [[experience.job]]
-company = "Kreatywny Cukier (Getin Holding S.A. group)"
+company = "Kreatywny Cukier"
 position = "Artistic Cake Workshop Manager"
 start_date = "January 2010"
 end_date = "January 2011"
 responsibilities = [
-    "Managed projects and team, ensuring timely delivery of artistic products under tight deadlines.",
+    "Managed projects and team, ensuring timely delivery of artistic cakes under tight deadlines.",
 ]
 
 [skills]
-languages = ["Rust", "C++", "Lua", "Java", "Python"]
+languages = ["Rust", "C++", "Java", "Lua", "Python", "UE Blueprint", "SQL"]
 technologies = [
     "Unreal Engine",
     "Iced GUI",
     "OpenGL/Glium",
     "Nalgebra",
     "Roblox Studio",
-    "Android/Java",
+    "Android Studio",
 ]
-soft_skills = [
-    "Team leadership",
-    "Client communication",
-    "Problem-solving",
-    "Adaptability",
-]
+workflow_tools = ["Perforce Helix", "Git", "Jira", "Redmine"]
 human_languages = [
     "Polish (native)",
     "English (fluent)",
     "French (basic)",
     "Hindi (very basic)",
+]
+soft_skills = [
+    "Team Leadership",
+    "Client Communication",
+    "Problem-solving",
+    "Adaptability",
 ]
 
 [education]

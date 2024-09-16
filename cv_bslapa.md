@@ -8,24 +8,24 @@ Warsaw, Poland
 
 ### Software Development Experience
 
-**VARSAV Game Studios S.A.** – *Unreal Engine / Game Programmer*  
+**VARSAV Game Studios S.A.** – *Gameplay Programmer (Unreal Engine 5, C++, UE Blueprint)*  
 <small>February 2024 – Present</small>  
-– Developed gameplay mechanics for "Barkour," a game featuring a four-legged protagonist.  
+– Developed gameplay mechanics for "Barkour", a game featuring a four-legged protagonist.  
 – Collaborated with artists, designers, and other programmers to integrate assets and features.  
 – Profiled the project to identify and implement improvements in speed and stability.  
   
-**Grip Digital** – *Game Developer (C++/Unreal Engine)*  
+**Grip Digital** – *Gameplay Programmer (Unreal Engine 4, C++, UE Blueprint)*  
 <small>July 2022 – October 2022</small>  
-– Created mini-games using Unreal Engine 4 and UE_Blueprint.
+– Created mini-games for an unannounced project.
 
-**Gamefam** – *Game Developer (Roblox/Luau)*  
+**Gamefam** – *Gameplay Programmer (Roblox Studio, Lua)*  
 <small>December 2021 – June 2022</small>  
-– Programmed new systems, interfaces, and game mechanics in Roblox Studio using Luau.  
-– Developed scripted events and improved gameplay based on design specifications.
+– Programmed new systems, interfaces, and game mechanics.  
+– Analyzed and iterated on gameplay balance.
 
-**Future Mind** – *Mobile Application Developer (Android/Java)*  
+**Future Mind** – *Mobile Application Programmer (Android Studio, Java, SQLite)*  
 <small>July 2014 – July 2015</small>  
-– Created (from mockup to release) an Android dictionary app, Synonimy.pl  
+– Created (from mockup to release) a dictionary app, Synonimy.pl  
 – Supported the development team of the Envelo project for Polish Post by testing and managing bugs.
 
 ---
@@ -36,13 +36,13 @@ Warsaw, Poland
 – Advanced mathematics and computer science, focusing on algorithms, data structures, and graphics.
 
 **Sofrecom** – *Business Consultant*  
-<small>February 2011 – May2012</small>  
+<small>February 2011 – May 2012</small>  
 – Led a project to implement customer satisfaction standards in public administration offices in Poland.  
 – Responsible for humanizing and simplifying administrative language to improve client communication.  
 
-**Kreatywny Cukier** (Getin Holding S.A. group) – *Artistic Cake Workshop Manager*  
+**Kreatywny Cukier** – *Artistic Cake Workshop Manager*  
 <small>January 2010 – January 2011</small>  
-– Managed projects and team, ensuring timely delivery of artistic products under tight deadlines.
+– Managed projects and team, ensuring timely delivery of artistic cakes under tight deadlines.
 
 ---
 
@@ -52,19 +52,21 @@ Warsaw, Poland
 
 ### Skills
 
-– **Languages**: *Rust, C++, Lua, Java, Python*  
-– **Technologies**: *Unreal Engine, Iced GUI, OpenGL/Glium, Nalgebra, Roblox Studio, Android/Java*  
-– **Soft Skills**: *Team leadership, client communication, problem-solving, adaptability.*  
+– **Languages**: *Rust, C++, Java, Lua, Python, UE Blueprint, SQL.*  
+– **Technologies**: *Unreal Engine, Iced GUI, OpenGL/Glium, Nalgebra, Roblox Studio, Android Studio.*  
+– **Workflow Tools**: *Perforce Helix, Git, Jira, Redmine.*  
+
 – **Human Languages**: *Polish (native), English (fluent), French (basic), Hindi (very basic).*  
+– **Soft Skills**: *Team Leadership, Client Communication, Problem-solving, Adaptability.*  
 
 ---
 
 ### Education
 
 **Warsaw University of Technology** – *Computer Science*  
-<small>Bachelor's Course (2008 – 2011)</small>
+<small>2008 – 2011 (Bachelor's Course)</small>
 
 **Adam Mickiewicz University in Poznań** – *Mathematics*  
-<small>Bachelor's Course (2019 – 2021)</small>
+<small>2019 – 2021 (Bachelor's Course)</small>
 
 ---
