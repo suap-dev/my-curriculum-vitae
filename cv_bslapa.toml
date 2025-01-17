@@ -3,6 +3,7 @@ name = "Bartosz Słapa"
 location = "Warsaw, Poland"
 github = "https://github.com/suap-dev"
 linkedin = "https://www.linkedin.com/in/bartosz-slapa"
+updated_cv = "https://github.com/suap-dev/my-curriculum-vitae"
 email = "bartosz.p.slapa@gmail.com"
 phone = "+48 505-707-827"
 
@@ -15,8 +16,11 @@ start_date = "February 2024"
 end_date = "Present"
 responsibilities = [
     "Developed gameplay mechanics for 'Barkour', a game featuring a four-legged protagonist.",
+    "Migrated 'Barkour' from from Unreal Engine 5.2 to 5.4.",
+    "Migrated 'Barkour' input from Legacy Input to Enhanced Input.",
+    "Profiled and optimized project performance and stability.",
+    "Prototyped simple swarm behaviour using Unreal's ECS (Mass Entity Framework) for an undisclosed project",
     "Collaborated with artists, designers, and other programmers to integrate assets and features.",
-    "Profiled the project to identify and implement improvements in speed and stability.",
 ]
 
 [[experience.job]]
@@ -78,14 +82,26 @@ responsibilities = [
 ]
 
 [skills]
-languages = ["Rust", "C++", "Java", "Lua", "Python", "UE Blueprint", "SQL"]
+languages = [
+    "Rust",
+    "C++",
+    "Lua",
+    "C#",
+    "Java",
+    "Python",
+    "UE Blueprint",
+    "SQL",
+]
 technologies = [
     "Unreal Engine",
+    "Unity Engine",
+    "Unity DOTS",
+    "Bevy Engine",
+    "Roblox Studio",
+    "LÖVE Framework",
     "Iced GUI",
     "OpenGL/Glium",
     "Nalgebra",
-    "Roblox Studio",
-    "Android Studio",
 ]
 workflow_tools = ["Perforce Helix", "Git", "Jira", "Redmine"]
 human_languages = [

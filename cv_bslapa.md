@@ -1,6 +1,6 @@
 # BARTOSZ SŁAPA
 
-[GitHub](https://github.com/suap-dev) | [LinkedIn](https://www.linkedin.com/in/bartosz-slapa) | [Email](mailto:bartosz.p.slapa@gmail.com)  
+[GitHub](https://github.com/suap-dev) | [LinkedIn](https://www.linkedin.com/in/bartosz-slapa) | [Email](mailto:bartosz.p.slapa@gmail.com)  | [Detailed CV](https://github.com/suap-dev/my-curriculum-vitae/blob/main/cv_bslapa.toml)  
 Mobile: [+48 505-707-827](tel:+48505707827)  
 Warsaw, Poland  
 
@@ -11,8 +11,9 @@ Warsaw, Poland
 **VARSAV Game Studios S.A.** – *Gameplay Programmer (Unreal Engine 5, C++, UE Blueprint)*  
 <small>February 2024 – Present</small>  
 – Developed gameplay mechanics for "Barkour", a game featuring a four-legged protagonist.  
-– Collaborated with artists, designers, and other programmers to integrate assets and features.  
-– Profiled the project to identify and implement improvements in speed and stability.  
+– Migrated "Barkour" input from Legacy Input to Enhanced Input.  
+– Migrated "Barkour" from from Unreal Engine 5.2 to 5.4.  
+– Prototyped simple swarm behaviour using Unreal's ECS (Mass Entity Framework) for an undisclosed project.  
   
 **Grip Digital** – *Gameplay Programmer (Unreal Engine 4, C++, UE Blueprint)*  
 <small>July 2022 – October 2022</small>  
