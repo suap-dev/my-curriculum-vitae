@@ -8,8 +8,16 @@ Warsaw, Poland
 
 ### Software Development Experience
 
+**Blue Bamboo Games Pty Ltd** – *Gameplay Programmer (Roblox Studio, Luau)*  
+<small>May 2025 – Present</small>  
+– Maintained gameplay systems for "Rorvik", a Roblox game with over 1 million visits.  
+– Collaborated with the strategist and lead game designer of "Rorvik" to balance deadlines.  
+– Implemented new features and optimized existing code for performance and maintainability.  
+– Managed a small team of programmers, providing mentorship and guidance.  
+
+
 **VARSAV Game Studios S.A.** – *Gameplay Programmer (Unreal Engine 5, C++, UE Blueprint)*  
-<small>February 2024 – Present</small>  
+<small>February 2024 – March 2025</small>  
 – Developed gameplay mechanics for "Barkour", a game featuring a four-legged protagonist.  
 – Migrated "Barkour" input from Legacy Input to Enhanced Input.  
 – Migrated "Barkour" from from Unreal Engine 5.2 to 5.4.  
@@ -31,7 +39,23 @@ Warsaw, Poland
 
 ---
 
+### Skills
+
+– **Languages**: *Rust, C++, Java, Lua, Luau, Python, UE Blueprint, SQL.*  
+– **Technologies**: *Unreal Engine, Iced GUI, OpenGL/Glium, Roblox Studio, Android Studio, Rojo.*  
+– **Workflow Tools**: *Perforce Helix, Git, Jira, Redmine, Discord.*  
+
+– **Human Languages**: *Polish (native), English (fluent), French (basic), Hindi (very basic).*  
+– **Soft Skills**: *Team Leadership, Client Communication, Problem-solving, Adaptability.*  
+
+---
+
+<div style="page-break-before: always;"></div>
+
+---
+
 ### Other Relevant Professional Experience
+
 **Self Employed** – *Mathematics and Computer Science Tutor*  
 <small>July 2014 – June 2024</small>  
 – Advanced mathematics and computer science, focusing on algorithms, data structures, and graphics.
@@ -44,21 +68,6 @@ Warsaw, Poland
 **Kreatywny Cukier** – *Artistic Cake Workshop Manager*  
 <small>January 2010 – January 2011</small>  
 – Managed projects and team, ensuring timely delivery of artistic cakes under tight deadlines.
-
----
-
-<div style="page-break-before: always;"></div>
-
----
-
-### Skills
-
-– **Languages**: *Rust, C++, Java, Lua, Python, UE Blueprint, SQL.*  
-– **Technologies**: *Unreal Engine, Iced GUI, OpenGL/Glium, Nalgebra, Roblox Studio, Android Studio.*  
-– **Workflow Tools**: *Perforce Helix, Git, Jira, Redmine.*  
-
-– **Human Languages**: *Polish (native), English (fluent), French (basic), Hindi (very basic).*  
-– **Soft Skills**: *Team Leadership, Client Communication, Problem-solving, Adaptability.*  
 
 ---
 

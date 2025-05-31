@@ -9,11 +9,24 @@ phone = "+48 505-707-827"
 
 [experience]
 [[experience.job]]
+company = "Blue Bamboo Games Pty Ltd"
+position = "Gameplay Programmer"
+tech_stack = "Roblox Studio, Luau, Rojo, Git, Jira, Discord"
+start_date = "May 2025"
+end_date = "Present"
+responsibilities = [
+    "Maintained gameplay systems for 'Rorvik', a Roblox game with over 1 million visits.",
+    "Collaborated with the strategist and lead game designer of 'Rorvik' to balance deadlines and ensure a sustainable development pace.",
+    "Implemented new features and optimized existing code for performance and maintainability.",
+    "Managed a small team of programmers, providing mentorship and guidance.",
+]
+
+[[experience.job]]
 company = "VARSAV Game Studios S.A."
 position = "Gameplay Programmer"
 tech_stack = "Unreal Engine 5, C++, Blueprint, Perforce Helix, Redmine"
 start_date = "February 2024"
-end_date = "Present"
+end_date = "March 2025"
 responsibilities = [
     "Developed gameplay mechanics for 'Barkour', a game featuring a four-legged protagonist.",
     "Migrated 'Barkour' from from Unreal Engine 5.2 to 5.4.",
@@ -103,7 +116,7 @@ technologies = [
     "OpenGL/Glium",
     "Nalgebra",
 ]
-workflow_tools = ["Perforce Helix", "Git", "Jira", "Redmine"]
+workflow_tools = ["Perforce Helix", "Git", "Jira", "Redmine", "Discord"]
 human_languages = [
     "Polish (native)",
     "English (fluent)",
