@@ -9,12 +9,11 @@ Warsaw, Poland
 ### Software Development Experience
 
 **Blue Bamboo Games Pty Ltd** – *Gameplay Programmer (Roblox Studio, Luau)*  
-<small>May 2025 – Present</small>  
+<small>May 2025 – July 2025</small>  
 – Maintained gameplay systems for "Rorvik", a Roblox game with over 1 million visits.  
 – Collaborated with the strategist and lead game designer of "Rorvik" to balance deadlines.  
 – Implemented new features and optimized existing code for performance and maintainability.  
 – Managed a small team of programmers, providing mentorship and guidance.  
-
 
 **VARSAV Game Studios S.A.** – *Gameplay Programmer (Unreal Engine 5, C++, UE Blueprint)*  
 <small>February 2024 – March 2025</small>  
