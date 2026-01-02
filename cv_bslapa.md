@@ -8,21 +8,21 @@ Warsaw, Poland
 
 ### Software Development Experience
 
-**Blue Bamboo Games Pty Ltd** – *Gameplay Programmer (Roblox Studio, Luau)*  
+**Blue Bamboo Games Pty Ltd** – *Lead Gameplay Programmer (Roblox Studio, Luau)*  
 <small>May 2025 – July 2025</small>  
-– Maintained gameplay systems for "Rorvik", a Roblox game with over 1 million visits.  
+– Managed a small team of programmers, providing mentorship and guidance.  
+– Maintained gameplay systems for "Rorvik", a live Roblox game with over 1 million visits.  
 – Collaborated with the strategist and lead game designer of "Rorvik" to balance deadlines.  
 – Implemented new features and optimized existing code for performance and maintainability.  
-– Managed a small team of programmers, providing mentorship and guidance.  
 
-**VARSAV Game Studios S.A.** – *Gameplay Programmer (Unreal Engine 5, C++, UE Blueprint)*  
+**VARSAV Game Studios S.A.** – *Gameplay Programmer (Unreal Engine 5, C++, Blueprint Visual Scripting)*  
 <small>February 2024 – March 2025</small>  
 – Developed gameplay mechanics for "Barkour", a game featuring a four-legged protagonist.  
 – Migrated "Barkour" input from Legacy Input to Enhanced Input.  
-– Migrated "Barkour" from from Unreal Engine 5.2 to 5.4.  
-– Prototyped simple swarm behaviour using Unreal's ECS (Mass Entity Framework) for an undisclosed project.  
+– Migrated "Barkour" from Unreal Engine 5.2 to 5.4.  
+– Prototyped simple swarm behavior using Unreal's ECS (Mass Entity Framework) for an undisclosed project.  
   
-**Grip Digital** – *Gameplay Programmer (Unreal Engine 4, C++, UE Blueprint)*  
+**Grip Digital** – *Gameplay Programmer (Unreal Engine 4, C++, Blueprint Visual Scripting)*  
 <small>July 2022 – October 2022</small>  
 – Created mini-games for an unannounced project.
 
@@ -40,7 +40,7 @@ Warsaw, Poland
 
 ### Skills
 
-– **Languages**: *Rust, C++, Java, Lua, Luau, Python, UE Blueprint, SQL.*  
+– **Languages**: *Rust, C++, Java, Lua, Luau, Python, Blueprint Visual Scripting, SQL.*  
 – **Technologies**: *Unreal Engine, Iced GUI, OpenGL/Glium, Roblox Studio, Android Studio, Rojo.*  
 – **Workflow Tools**: *Perforce Helix, Git, Jira, Redmine, Discord.*  
 
@@ -56,8 +56,8 @@ Warsaw, Poland
 ### Other Relevant Professional Experience
 
 **Self Employed** – *Mathematics and Computer Science Tutor*  
-<small>July 2014 – June 2024</small>  
-– Advanced mathematics and computer science, focusing on algorithms, data structures, and graphics.
+<small>July 2014 – Present</small>  
+– Teaching mathematics and computer science through practical game development.
 
 **Sofrecom** – *Business Consultant*  
 <small>February 2011 – May 2012</small>  

@@ -10,15 +10,15 @@ phone = "+48 505-707-827"
 [experience]
 [[experience.job]]
 company = "Blue Bamboo Games Pty Ltd"
-position = "Gameplay Programmer"
+position = "Lead Gameplay Programmer"
 tech_stack = "Roblox Studio, Luau, Rojo, Git, Jira, Discord"
 start_date = "May 2025"
 end_date = "July 2025"
 responsibilities = [
-    "Maintained gameplay systems for 'Rorvik', a Roblox game with over 1 million visits.",
+    "Managed a small team of programmers, providing mentorship and guidance.",
+    "Maintained gameplay systems for 'Rorvik', a live Roblox game with over 1 million visits.",
     "Collaborated with the strategist and lead game designer of 'Rorvik' to balance deadlines and ensure a sustainable development pace.",
     "Implemented new features and optimized existing code for performance and maintainability.",
-    "Managed a small team of programmers, providing mentorship and guidance.",
 ]
 
 [[experience.job]]
@@ -29,10 +29,10 @@ start_date = "February 2024"
 end_date = "March 2025"
 responsibilities = [
     "Developed gameplay mechanics for 'Barkour', a game featuring a four-legged protagonist.",
-    "Migrated 'Barkour' from from Unreal Engine 5.2 to 5.4.",
+    "Migrated 'Barkour' from Unreal Engine 5.2 to 5.4.",
     "Migrated 'Barkour' input from Legacy Input to Enhanced Input.",
     "Profiled and optimized project performance and stability.",
-    "Prototyped simple swarm behaviour using Unreal's ECS (Mass Entity Framework) for an undisclosed project",
+    "Prototyped simple swarm behavior using Unreal's ECS (Mass Entity Framework) for an undisclosed project.",
     "Collaborated with artists, designers, and other programmers to integrate assets and features.",
 ]
 
@@ -70,9 +70,9 @@ responsibilities = [
 company = "Self Employed"
 position = "Mathematics and Computer Science Tutor"
 start_date = "July 2014"
-end_date = "June 2024"
+end_date = "Present"
 responsibilities = [
-    "Advanced mathematics and computer science, focusing on algorithms, data structures, and graphics.",
+    "Teaching mathematics and computer science through practical game development.",
 ]
 
 [[experience.job]]
@@ -102,7 +102,7 @@ languages = [
     "C#",
     "Java",
     "Python",
-    "UE Blueprint",
+    "Blueprint Visual Scripting",
     "SQL",
 ]
 technologies = [
